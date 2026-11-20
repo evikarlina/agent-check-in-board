@@ -82,6 +82,12 @@ the deployed `AgentCheckIn` address (see `DEPLOY-PLAN.md`).
 
 MIT — see [LICENSE](LICENSE).
 
+## Live demo
+
+- Website: https://evikarlina.github.io/agent-check-in-board/
+- Repository: https://github.com/evikarlina/agent-check-in-board
+- Contract on BscScan: https://bscscan.com/address/0x9ea81607a0f6fa796b2432308f9190c860b70205
+
 ## Deployment (BSC mainnet)
 
 - Contract: `0x9ea81607a0f6fa796b2432308f9190c860b70205`
